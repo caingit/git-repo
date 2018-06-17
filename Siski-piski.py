@@ -1,2 +1,3 @@
 n = input()
-print("hello world, "+n)
+m = "666"
+print("hello world, " + n + " " + m)
